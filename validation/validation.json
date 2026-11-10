@@ -1,0 +1,41 @@
+{
+  "status": "OK",
+  "templateOnly": true,
+  "artworkIncluded": false,
+  "textInAtlas": false,
+  "panIncluded": false,
+  "handleColourGroups": 2,
+  "handleSideUvCorrected": true,
+  "handleSideUvMeshes": 6,
+  "handleEdgeUnwrap": "measured contour arc length",
+  "sidePanelsContinuous": true,
+  "handleTemplateOutlines": false,
+  "handleBleed": "4 master px",
+  "handlePreviewMaterial": "high roughness, no white edge glare",
+  "geometryUnchanged": true,
+  "categories": [
+    "rubber",
+    "handle"
+  ],
+  "collections": 15,
+  "mappingRows": 45,
+  "shapeChecks": 12,
+  "independentCombinations": 225,
+  "textureStatus": "Textures: 6 / 6",
+  "layout": {
+    "page": [
+      2048,
+      2048
+    ],
+    "cell": 384,
+    "inner": 360,
+    "bleed": 12,
+    "gap": 16,
+    "origin": [
+      32,
+      432
+    ],
+    "step": 400
+  },
+  "browserErrors": []
+}

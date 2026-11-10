@@ -1,0 +1,33 @@
+{
+  "errors": [],
+  "textureStatus": "Textures: 6 / 6",
+  "collections": 15,
+  "shapeChecks": 12,
+  "independentCombinations": 225,
+  "colorPageChecks": 3,
+  "templateTextures": [
+    "rubberAtlas_template",
+    "handleAtlas_template"
+  ],
+  "templateOnly": true,
+  "artworkIncluded": false,
+  "textInAtlas": false,
+  "panIncluded": false,
+  "handleColourGroups": 2,
+  "handleSideUvCorrected": true,
+  "handleSideUvMeshes": 6,
+  "handleTemplateOutlines": "removed from all sampled handle colour islands",
+  "handleBleed": "4 master px around sampled rectangles",
+  "handlePreviewMaterial": "high-roughness handle template shading to avoid white edge glare",
+  "edgeContourQuads": "fixed segment assignment plus measured arc-length unwrap; R/L panels continuous at front/back seam",
+  "geometry": "26 unchanged production meshes; only handle UV0 contour/bevel assignment changed",
+  "state": {
+    "blade": "Classic",
+    "handle": "Straight",
+    "rubber": "CLASSIC",
+    "handleDesign": "CLASSIC",
+    "wood": "natural",
+    "page": "v01",
+    "mode": "3d"
+  }
+}

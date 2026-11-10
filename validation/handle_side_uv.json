@@ -1,0 +1,177 @@
+{
+  "status": "OK",
+  "geometryUnchanged": true,
+  "sideUvOnly": true,
+  "method": "fixed contour segments + measured arc-length unwrap",
+  "frontBackSeam": "R/L panels share one continuous rectangle at U=0.5",
+  "handles": {
+    "Handle_Flared_Front": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            320.0,
+            16.0
+          ],
+          "pixelsMax": [
+            412.1600036621094,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            736.0,
+            16.0
+          ],
+          "pixelsMax": [
+            828.1599731445312,
+            784.0
+          ]
+        }
+      }
+    },
+    "Handle_Flared_Back": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            227.83999633789062,
+            16.0
+          ],
+          "pixelsMax": [
+            320.0,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            643.8400268554688,
+            16.0
+          ],
+          "pixelsMax": [
+            736.0,
+            784.0
+          ]
+        }
+      }
+    },
+    "Handle_Straight_Front": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            320.0,
+            16.0
+          ],
+          "pixelsMax": [
+            412.1600036621094,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            736.0,
+            16.0
+          ],
+          "pixelsMax": [
+            828.1599731445312,
+            784.0
+          ]
+        }
+      }
+    },
+    "Handle_Straight_Back": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            227.83999633789062,
+            16.0
+          ],
+          "pixelsMax": [
+            320.0,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            643.8400268554688,
+            16.0
+          ],
+          "pixelsMax": [
+            736.0,
+            784.0
+          ]
+        }
+      }
+    },
+    "Handle_Anatomic_Front": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            320.0,
+            16.0
+          ],
+          "pixelsMax": [
+            412.1600036621094,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            736.0,
+            16.0
+          ],
+          "pixelsMax": [
+            828.1599731445312,
+            784.0
+          ]
+        }
+      }
+    },
+    "Handle_Anatomic_Back": {
+      "vertices": 432,
+      "triangles": 144,
+      "zones": {
+        "R": {
+          "count": 84,
+          "pixelsMin": [
+            227.83999633789062,
+            16.0
+          ],
+          "pixelsMax": [
+            320.0,
+            784.0
+          ]
+        },
+        "L": {
+          "count": 84,
+          "pixelsMin": [
+            643.8400268554688,
+            16.0
+          ],
+          "pixelsMax": [
+            736.0,
+            784.0
+          ]
+        }
+      }
+    }
+  }
+}
